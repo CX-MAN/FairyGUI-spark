@@ -209,6 +209,7 @@ obj.OnDrop.Add(ctx => { /* 放置 */ });
 
 - [FairyGUI](https://www.fairygui.com/) - 优秀的 UI 编辑器框架
 - 星火编辑器团队 - 提供强大的游戏开发平台
+- 点点大佬提供了适配的基础代码
 
 ## 📞 联系方式
 
