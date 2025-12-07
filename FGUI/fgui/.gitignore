@@ -1,0 +1,12 @@
+editor/table/save_info.json
+
+.idea
+.trigger_debugger
+.sce_workspace.code-workspace
+.vs
+bin
+src/obj
+*.pdb
+AppBundle
+ui/AppBundle
+/src/WasiCoreSDK.props
